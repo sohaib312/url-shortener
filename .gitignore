@@ -1,0 +1,6 @@
+# Ignore Python notebooks accidentally placed in root
+/src/
+*.ipynb
+
+# IDE settings
+.idea/
